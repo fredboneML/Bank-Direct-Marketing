@@ -1,0 +1,4 @@
+pandas==0.25.1
+numpy==1.17.2
+joblib==0.16.0
+streamlit==0.67.0
